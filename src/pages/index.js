@@ -138,7 +138,7 @@ export default function Home() {
                 </Text>
               </Box>
               <Image
-                src="https://images.unsplash.com/photo-1680913526064-d49073fc58f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+                src="https://images.unsplash.com/photo-1681068420510-cb528c65d595?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80"
                 width={"640px"}
               />
             </Flex>
