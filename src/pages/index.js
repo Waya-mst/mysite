@@ -102,7 +102,7 @@ export default function Home() {
               color="gray.800"
               className="text shadow"
             >
-              KCS
+              けーしーえす
             </Text>
           </Flex>
         </Box>
