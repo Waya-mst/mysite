@@ -138,8 +138,8 @@ export default function Home() {
                 </Text>
               </Box>
               <Image
-                src="https://images.unsplash.com/photo-1681068420510-cb528c65d595?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80"
-                width={"640px"}
+                src="/cyclepicture.jpg"
+                width={"500px"}
               />
             </Flex>
             <ScrollAnimation />
@@ -345,7 +345,7 @@ export default function Home() {
               letterSpacing={"0.05rem"}
               color="#333333"
             >
-              KENSUKE MORITA
+              Waya
             </Text>
           </Flex>
         </Box>
