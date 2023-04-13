@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>NAMAEのホームページ</title>
+        <title>わやのホームページ</title>
         <meta name="description" content="HP作成会用のサンプルページ" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -69,7 +69,7 @@ export default function Home() {
               mr="auto"
               ml="90px"
             >
-              MYOUJI
+              
             </Text>
             <Flex mr="90px">
               <Text mr="40px" fontWeight={"bold"}>
