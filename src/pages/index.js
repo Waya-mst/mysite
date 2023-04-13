@@ -124,7 +124,7 @@ export default function Home() {
               fontWeight={"bold"}
               letterSpacing={"0.2rem"}
             >
-              私について
+              Art Works
             </Text>
             <Flex justifyContent={"center"} alignItems={"center"} h="100%">
               <Box mr="140px" w="520px">
